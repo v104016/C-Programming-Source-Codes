@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     float phy, chem, math, avg;
 
     printf("Enter marks for Physics: ");
